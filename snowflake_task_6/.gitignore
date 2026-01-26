@@ -1,0 +1,16 @@
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+logs/
+plugins/__pycache__/
+dags/__pycache__/
+airflow-webserver.pid
+standalone_admin_password.txt
+.vscode/
+.idea/
+.DS_Store
+.docker/

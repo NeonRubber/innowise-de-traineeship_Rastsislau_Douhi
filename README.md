@@ -1,4 +1,4 @@
-Data Engineering Internship Hub
+## Rostislav's Engineering Internship Hub - A Home To All The Trainee Tasks
 
 This repository contains a collection of practical tasks and projects, covering the tasks from Innowise LMS. Each module resides in its own dedicated folder.
 

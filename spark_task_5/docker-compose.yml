@@ -1,0 +1,27 @@
+services:
+  db:
+    image: postgres:13
+    container_name: pagila_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: pagila
+    ports:
+      - "5454:5432"
+    volumes:
+      - ./db_init:/docker-entrypoint-initdb.d
+
+  spark:
+    image: jupyter/pyspark-notebook:latest
+    container_name: spark_app
+    ports:
+      - "8888:8888"
+      - "4040:4040"
+    volumes:
+      - ./work:/home/jovyan/work
+      - ./jars:/home/jovyan/jars 
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=mysecrettoken
+    depends_on:
+      - db

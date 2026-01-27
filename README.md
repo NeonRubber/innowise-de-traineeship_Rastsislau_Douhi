@@ -4,7 +4,7 @@ This repository contains a collection of practical tasks and projects, covering 
 
 ## Repository Structure
 
-The content is organized by technology and topic. Below is the overview of the modules:
+The content is organized by technology and topic.
 
 ## How to Run
 

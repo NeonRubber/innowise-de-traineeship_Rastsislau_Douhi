@@ -1,0 +1,8 @@
+services:
+  alert-system:
+    build: .
+    container_name: alert_project_task_7_container
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1

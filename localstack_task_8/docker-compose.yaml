@@ -1,0 +1,149 @@
+networks:
+  data-network:
+    driver: bridge
+
+# Global configuration block
+x-airflow-common: &airflow-common
+  build: .
+  image: custom-airflow:2.10.3-python3.10
+  env_file: .env
+  user: "${AIRFLOW_UID:-50000}:0"
+  # Volume and dependency configurations
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./data:/opt/airflow/data
+    - ./scripts:/opt/airflow/scripts
+    - ./plugins:/opt/airflow/plugins
+    - ./src:/opt/airflow/src
+  depends_on:
+    postgres:
+      condition: service_healthy
+    localstack:
+      condition: service_started
+  # Shared environment variables for merging
+  environment: &airflow-common-env
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+    AIRFLOW__CORE__FERNET_KEY: ${AIRFLOW_FERNET_KEY}
+    LOCALSTACK_ENDPOINT: http://localstack:4566
+    AWS_DEFAULT_REGION: us-east-1
+    AWS_ACCESS_KEY_ID: test
+    AWS_SECRET_ACCESS_KEY: test
+
+services:
+  # === INFRASTRUCTURE ===
+  localstack:
+    image: localstack/localstack:latest
+    container_name: localstack
+    ports:
+      - "4566:4566"
+    environment:
+      - SERVICES=s3,lambda,sns,sqs,dynamodb,logs
+      - DEBUG=1
+      - DOCKER_HOST=unix:///var/run/docker.sock
+    volumes:
+      - "./infrastructure:/etc/localstack/init/ready.d"
+      - "/var/run/docker.sock:/var/run/docker.sock"
+      - "./src/lambda_function:/opt/code/lambda"
+      - "localstack_data:/var/lib/localstack"
+    networks:
+      - data-network
+
+  postgres:
+    image: postgres:13
+    container_name: airflow-postgres
+    environment:
+      - POSTGRES_USER=airflow
+      - POSTGRES_PASSWORD=airflow
+      - POSTGRES_DB=airflow
+    volumes:
+      - postgres-db-volume:/var/lib/postgresql/data
+    healthcheck:
+      test: [ "CMD", "pg_isready", "-U", "airflow" ]
+      interval: 10s
+      retries: 5
+      start_period: 5s
+    networks:
+      - data-network
+
+  # === AIRFLOW SERVICES ===
+
+  airflow-init:
+    <<: *airflow-common
+    container_name: airflow-init
+    command: version
+    environment:
+      <<: *airflow-common-env
+      _AIRFLOW_DB_UPGRADE: 'true'
+      _AIRFLOW_WWW_USER_CREATE: 'true'
+      _AIRFLOW_WWW_USER_USERNAME: admin
+      _AIRFLOW_WWW_USER_PASSWORD: admin
+    networks:
+      - data-network
+
+  airflow-webserver:
+    <<: *airflow-common
+    container_name: airflow-webserver
+    command: webserver
+    ports:
+      - "8080:8080"
+    environment:
+      <<: *airflow-common-env
+    healthcheck:
+      test: [ "CMD", "curl", "--fail", "http://localhost:8080/health" ]
+      interval: 30s
+      timeout: 30s
+      retries: 5
+      start_period: 60s
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+    networks:
+      - data-network
+
+  airflow-scheduler:
+    <<: *airflow-common
+    container_name: airflow-scheduler
+    command: scheduler
+    environment:
+      <<: *airflow-common-env
+    healthcheck:
+      test: [ "CMD", "airflow", "jobs", "check", "--job-type", "SchedulerJob", "--hostname", "${HOSTNAME:-localhost}" ]
+      interval: 30s
+      timeout: 30s
+      retries: 5
+      start_period: 60s
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+    networks:
+      - data-network
+
+  airflow-triggerer:
+    <<: *airflow-common
+    container_name: airflow-triggerer
+    command: triggerer
+    environment:
+      <<: *airflow-common-env
+    healthcheck:
+      test: [ "CMD-SHELL", 'airflow jobs check --job-type TriggererJob --hostname "${HOSTNAME:-localhost}"' ]
+      interval: 30s
+      timeout: 30s
+      retries: 5
+      start_period: 60s
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+    networks:
+      - data-network
+
+volumes:
+  postgres-db-volume:
+  localstack_data:

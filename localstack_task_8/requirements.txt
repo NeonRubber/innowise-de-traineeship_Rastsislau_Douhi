@@ -1,0 +1,6 @@
+apache-airflow-providers-amazon
+apache-airflow-providers-common-sql
+pyspark
+pandas
+numpy
+boto3

@@ -1,0 +1,35 @@
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres_superstore_bi
+      POSTGRES_DB: superstore_bi
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./sql/init_schema.sql:/docker-entrypoint-initdb.d/10_init_schema.sql
+      - ./sql/sp_etl.sql:/docker-entrypoint-initdb.d/20_sp_etl.sql
+      - ./data:/app/data
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres -d superstore_bi" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  etl:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      - DB_HOST=db
+    volumes:
+      - ./data:/app/import_data
+    command: >
+      sh -c "python etl/generate_data.py && 
+             python etl/orchestrator.py /app/data/initial_load.csv"
+
+volumes:
+  postgres_data:

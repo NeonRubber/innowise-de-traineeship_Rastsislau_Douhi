@@ -2,5001 +2,5001 @@
   {
     "id": 0,
     "name": "Room #0",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 1,
     "name": "Room #1",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 2,
     "name": "Room #2",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 3,
     "name": "Room #3",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 4,
     "name": "Room #4",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 5,
     "name": "Room #5",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 6,
     "name": "Room #6",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 7,
     "name": "Room #7",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 8,
     "name": "Room #8",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 9,
     "name": "Room #9",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 10,
     "name": "Room #10",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 11,
     "name": "Room #11",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 12,
     "name": "Room #12",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 13,
     "name": "Room #13",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 14,
     "name": "Room #14",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 15,
     "name": "Room #15",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 16,
     "name": "Room #16",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 17,
     "name": "Room #17",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 18,
     "name": "Room #18",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 19,
     "name": "Room #19",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 20,
     "name": "Room #20",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 21,
     "name": "Room #21",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 22,
     "name": "Room #22",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 23,
     "name": "Room #23",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 24,
     "name": "Room #24",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 25,
     "name": "Room #25",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 26,
     "name": "Room #26",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 27,
     "name": "Room #27",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 28,
     "name": "Room #28",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 29,
     "name": "Room #29",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 30,
     "name": "Room #30",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 31,
     "name": "Room #31",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 32,
     "name": "Room #32",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 33,
     "name": "Room #33",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 34,
     "name": "Room #34",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 35,
     "name": "Room #35",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 36,
     "name": "Room #36",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 37,
     "name": "Room #37",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 38,
     "name": "Room #38",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 39,
     "name": "Room #39",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 40,
     "name": "Room #40",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 41,
     "name": "Room #41",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 42,
     "name": "Room #42",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 43,
     "name": "Room #43",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 44,
     "name": "Room #44",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 45,
     "name": "Room #45",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 46,
     "name": "Room #46",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 47,
     "name": "Room #47",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 48,
     "name": "Room #48",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 49,
     "name": "Room #49",
-    "_students_count_in_the_room": 3
+    "students_count": 3
   },
   {
     "id": 50,
     "name": "Room #50",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 51,
     "name": "Room #51",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 52,
     "name": "Room #52",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 53,
     "name": "Room #53",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 54,
     "name": "Room #54",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 55,
     "name": "Room #55",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 56,
     "name": "Room #56",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 57,
     "name": "Room #57",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 58,
     "name": "Room #58",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 59,
     "name": "Room #59",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 60,
     "name": "Room #60",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 61,
     "name": "Room #61",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 62,
     "name": "Room #62",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 63,
     "name": "Room #63",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 64,
     "name": "Room #64",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 65,
     "name": "Room #65",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 66,
     "name": "Room #66",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 67,
     "name": "Room #67",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 68,
     "name": "Room #68",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 69,
     "name": "Room #69",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 70,
     "name": "Room #70",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 71,
     "name": "Room #71",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 72,
     "name": "Room #72",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 73,
     "name": "Room #73",
-    "_students_count_in_the_room": 20
+    "students_count": 20
   },
   {
     "id": 74,
     "name": "Room #74",
-    "_students_count_in_the_room": 17
+    "students_count": 17
   },
   {
     "id": 75,
     "name": "Room #75",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 76,
     "name": "Room #76",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 77,
     "name": "Room #77",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 78,
     "name": "Room #78",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 79,
     "name": "Room #79",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 80,
     "name": "Room #80",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 81,
     "name": "Room #81",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 82,
     "name": "Room #82",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 83,
     "name": "Room #83",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 84,
     "name": "Room #84",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 85,
     "name": "Room #85",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 86,
     "name": "Room #86",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 87,
     "name": "Room #87",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 88,
     "name": "Room #88",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 89,
     "name": "Room #89",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 90,
     "name": "Room #90",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 91,
     "name": "Room #91",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 92,
     "name": "Room #92",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 93,
     "name": "Room #93",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 94,
     "name": "Room #94",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 95,
     "name": "Room #95",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 96,
     "name": "Room #96",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 97,
     "name": "Room #97",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 98,
     "name": "Room #98",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 99,
     "name": "Room #99",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 100,
     "name": "Room #100",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 101,
     "name": "Room #101",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 102,
     "name": "Room #102",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 103,
     "name": "Room #103",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 104,
     "name": "Room #104",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 105,
     "name": "Room #105",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 106,
     "name": "Room #106",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 107,
     "name": "Room #107",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 108,
     "name": "Room #108",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 109,
     "name": "Room #109",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 110,
     "name": "Room #110",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 111,
     "name": "Room #111",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 112,
     "name": "Room #112",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 113,
     "name": "Room #113",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 114,
     "name": "Room #114",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 115,
     "name": "Room #115",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 116,
     "name": "Room #116",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 117,
     "name": "Room #117",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 118,
     "name": "Room #118",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 119,
     "name": "Room #119",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 120,
     "name": "Room #120",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 121,
     "name": "Room #121",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 122,
     "name": "Room #122",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 123,
     "name": "Room #123",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 124,
     "name": "Room #124",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 125,
     "name": "Room #125",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 126,
     "name": "Room #126",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 127,
     "name": "Room #127",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 128,
     "name": "Room #128",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 129,
     "name": "Room #129",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 130,
     "name": "Room #130",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 131,
     "name": "Room #131",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 132,
     "name": "Room #132",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 133,
     "name": "Room #133",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 134,
     "name": "Room #134",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 135,
     "name": "Room #135",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 136,
     "name": "Room #136",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 137,
     "name": "Room #137",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 138,
     "name": "Room #138",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 139,
     "name": "Room #139",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 140,
     "name": "Room #140",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 141,
     "name": "Room #141",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 142,
     "name": "Room #142",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 143,
     "name": "Room #143",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 144,
     "name": "Room #144",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 145,
     "name": "Room #145",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 146,
     "name": "Room #146",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 147,
     "name": "Room #147",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 148,
     "name": "Room #148",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 149,
     "name": "Room #149",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 150,
     "name": "Room #150",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 151,
     "name": "Room #151",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 152,
     "name": "Room #152",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 153,
     "name": "Room #153",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 154,
     "name": "Room #154",
-    "_students_count_in_the_room": 3
+    "students_count": 3
   },
   {
     "id": 155,
     "name": "Room #155",
-    "_students_count_in_the_room": 18
+    "students_count": 18
   },
   {
     "id": 156,
     "name": "Room #156",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 157,
     "name": "Room #157",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 158,
     "name": "Room #158",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 159,
     "name": "Room #159",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 160,
     "name": "Room #160",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 161,
     "name": "Room #161",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 162,
     "name": "Room #162",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 163,
     "name": "Room #163",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 164,
     "name": "Room #164",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 165,
     "name": "Room #165",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 166,
     "name": "Room #166",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 167,
     "name": "Room #167",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 168,
     "name": "Room #168",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 169,
     "name": "Room #169",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 170,
     "name": "Room #170",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 171,
     "name": "Room #171",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 172,
     "name": "Room #172",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 173,
     "name": "Room #173",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 174,
     "name": "Room #174",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 175,
     "name": "Room #175",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 176,
     "name": "Room #176",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 177,
     "name": "Room #177",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 178,
     "name": "Room #178",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 179,
     "name": "Room #179",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 180,
     "name": "Room #180",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 181,
     "name": "Room #181",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 182,
     "name": "Room #182",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 183,
     "name": "Room #183",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 184,
     "name": "Room #184",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 185,
     "name": "Room #185",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 186,
     "name": "Room #186",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 187,
     "name": "Room #187",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 188,
     "name": "Room #188",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 189,
     "name": "Room #189",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 190,
     "name": "Room #190",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 191,
     "name": "Room #191",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 192,
     "name": "Room #192",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 193,
     "name": "Room #193",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 194,
     "name": "Room #194",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 195,
     "name": "Room #195",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 196,
     "name": "Room #196",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 197,
     "name": "Room #197",
-    "_students_count_in_the_room": 19
+    "students_count": 19
   },
   {
     "id": 198,
     "name": "Room #198",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 199,
     "name": "Room #199",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 200,
     "name": "Room #200",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 201,
     "name": "Room #201",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 202,
     "name": "Room #202",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 203,
     "name": "Room #203",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 204,
     "name": "Room #204",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 205,
     "name": "Room #205",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 206,
     "name": "Room #206",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 207,
     "name": "Room #207",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 208,
     "name": "Room #208",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 209,
     "name": "Room #209",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 210,
     "name": "Room #210",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 211,
     "name": "Room #211",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 212,
     "name": "Room #212",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 213,
     "name": "Room #213",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 214,
     "name": "Room #214",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 215,
     "name": "Room #215",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 216,
     "name": "Room #216",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 217,
     "name": "Room #217",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 218,
     "name": "Room #218",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 219,
     "name": "Room #219",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 220,
     "name": "Room #220",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 221,
     "name": "Room #221",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 222,
     "name": "Room #222",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 223,
     "name": "Room #223",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 224,
     "name": "Room #224",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 225,
     "name": "Room #225",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 226,
     "name": "Room #226",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 227,
     "name": "Room #227",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 228,
     "name": "Room #228",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 229,
     "name": "Room #229",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 230,
     "name": "Room #230",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 231,
     "name": "Room #231",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 232,
     "name": "Room #232",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 233,
     "name": "Room #233",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 234,
     "name": "Room #234",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 235,
     "name": "Room #235",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 236,
     "name": "Room #236",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 237,
     "name": "Room #237",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 238,
     "name": "Room #238",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 239,
     "name": "Room #239",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 240,
     "name": "Room #240",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 241,
     "name": "Room #241",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 242,
     "name": "Room #242",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 243,
     "name": "Room #243",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 244,
     "name": "Room #244",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 245,
     "name": "Room #245",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 246,
     "name": "Room #246",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 247,
     "name": "Room #247",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 248,
     "name": "Room #248",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 249,
     "name": "Room #249",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 250,
     "name": "Room #250",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 251,
     "name": "Room #251",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 252,
     "name": "Room #252",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 253,
     "name": "Room #253",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 254,
     "name": "Room #254",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 255,
     "name": "Room #255",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 256,
     "name": "Room #256",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 257,
     "name": "Room #257",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 258,
     "name": "Room #258",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 259,
     "name": "Room #259",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 260,
     "name": "Room #260",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 261,
     "name": "Room #261",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 262,
     "name": "Room #262",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 263,
     "name": "Room #263",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 264,
     "name": "Room #264",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 265,
     "name": "Room #265",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 266,
     "name": "Room #266",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 267,
     "name": "Room #267",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 268,
     "name": "Room #268",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 269,
     "name": "Room #269",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 270,
     "name": "Room #270",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 271,
     "name": "Room #271",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 272,
     "name": "Room #272",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 273,
     "name": "Room #273",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 274,
     "name": "Room #274",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 275,
     "name": "Room #275",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 276,
     "name": "Room #276",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 277,
     "name": "Room #277",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 278,
     "name": "Room #278",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 279,
     "name": "Room #279",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 280,
     "name": "Room #280",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 281,
     "name": "Room #281",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 282,
     "name": "Room #282",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 283,
     "name": "Room #283",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 284,
     "name": "Room #284",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 285,
     "name": "Room #285",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 286,
     "name": "Room #286",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 287,
     "name": "Room #287",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 288,
     "name": "Room #288",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 289,
     "name": "Room #289",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 290,
     "name": "Room #290",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 291,
     "name": "Room #291",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 292,
     "name": "Room #292",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 293,
     "name": "Room #293",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 294,
     "name": "Room #294",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 295,
     "name": "Room #295",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 296,
     "name": "Room #296",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 297,
     "name": "Room #297",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 298,
     "name": "Room #298",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 299,
     "name": "Room #299",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 300,
     "name": "Room #300",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 301,
     "name": "Room #301",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 302,
     "name": "Room #302",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 303,
     "name": "Room #303",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 304,
     "name": "Room #304",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 305,
     "name": "Room #305",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 306,
     "name": "Room #306",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 307,
     "name": "Room #307",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 308,
     "name": "Room #308",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 309,
     "name": "Room #309",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 310,
     "name": "Room #310",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 311,
     "name": "Room #311",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 312,
     "name": "Room #312",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 313,
     "name": "Room #313",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 314,
     "name": "Room #314",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 315,
     "name": "Room #315",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 316,
     "name": "Room #316",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 317,
     "name": "Room #317",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 318,
     "name": "Room #318",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 319,
     "name": "Room #319",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 320,
     "name": "Room #320",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 321,
     "name": "Room #321",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 322,
     "name": "Room #322",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 323,
     "name": "Room #323",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 324,
     "name": "Room #324",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 325,
     "name": "Room #325",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 326,
     "name": "Room #326",
-    "_students_count_in_the_room": 18
+    "students_count": 18
   },
   {
     "id": 327,
     "name": "Room #327",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 328,
     "name": "Room #328",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 329,
     "name": "Room #329",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 330,
     "name": "Room #330",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 331,
     "name": "Room #331",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 332,
     "name": "Room #332",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 333,
     "name": "Room #333",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 334,
     "name": "Room #334",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 335,
     "name": "Room #335",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 336,
     "name": "Room #336",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 337,
     "name": "Room #337",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 338,
     "name": "Room #338",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 339,
     "name": "Room #339",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 340,
     "name": "Room #340",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 341,
     "name": "Room #341",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 342,
     "name": "Room #342",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 343,
     "name": "Room #343",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 344,
     "name": "Room #344",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 345,
     "name": "Room #345",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 346,
     "name": "Room #346",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 347,
     "name": "Room #347",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 348,
     "name": "Room #348",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 349,
     "name": "Room #349",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 350,
     "name": "Room #350",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 351,
     "name": "Room #351",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 352,
     "name": "Room #352",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 353,
     "name": "Room #353",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 354,
     "name": "Room #354",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 355,
     "name": "Room #355",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 356,
     "name": "Room #356",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 357,
     "name": "Room #357",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 358,
     "name": "Room #358",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 359,
     "name": "Room #359",
-    "_students_count_in_the_room": 18
+    "students_count": 18
   },
   {
     "id": 360,
     "name": "Room #360",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 361,
     "name": "Room #361",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 362,
     "name": "Room #362",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 363,
     "name": "Room #363",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 364,
     "name": "Room #364",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 365,
     "name": "Room #365",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 366,
     "name": "Room #366",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 367,
     "name": "Room #367",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 368,
     "name": "Room #368",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 369,
     "name": "Room #369",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 370,
     "name": "Room #370",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 371,
     "name": "Room #371",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 372,
     "name": "Room #372",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 373,
     "name": "Room #373",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 374,
     "name": "Room #374",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 375,
     "name": "Room #375",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 376,
     "name": "Room #376",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 377,
     "name": "Room #377",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 378,
     "name": "Room #378",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 379,
     "name": "Room #379",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 380,
     "name": "Room #380",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 381,
     "name": "Room #381",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 382,
     "name": "Room #382",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 383,
     "name": "Room #383",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 384,
     "name": "Room #384",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 385,
     "name": "Room #385",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 386,
     "name": "Room #386",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 387,
     "name": "Room #387",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 388,
     "name": "Room #388",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 389,
     "name": "Room #389",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 390,
     "name": "Room #390",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 391,
     "name": "Room #391",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 392,
     "name": "Room #392",
-    "_students_count_in_the_room": 18
+    "students_count": 18
   },
   {
     "id": 393,
     "name": "Room #393",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 394,
     "name": "Room #394",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 395,
     "name": "Room #395",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 396,
     "name": "Room #396",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 397,
     "name": "Room #397",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 398,
     "name": "Room #398",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 399,
     "name": "Room #399",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 400,
     "name": "Room #400",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 401,
     "name": "Room #401",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 402,
     "name": "Room #402",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 403,
     "name": "Room #403",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 404,
     "name": "Room #404",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 405,
     "name": "Room #405",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 406,
     "name": "Room #406",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 407,
     "name": "Room #407",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 408,
     "name": "Room #408",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 409,
     "name": "Room #409",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 410,
     "name": "Room #410",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 411,
     "name": "Room #411",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 412,
     "name": "Room #412",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 413,
     "name": "Room #413",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 414,
     "name": "Room #414",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 415,
     "name": "Room #415",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 416,
     "name": "Room #416",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 417,
     "name": "Room #417",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 418,
     "name": "Room #418",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 419,
     "name": "Room #419",
-    "_students_count_in_the_room": 3
+    "students_count": 3
   },
   {
     "id": 420,
     "name": "Room #420",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 421,
     "name": "Room #421",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 422,
     "name": "Room #422",
-    "_students_count_in_the_room": 2
+    "students_count": 2
   },
   {
     "id": 423,
     "name": "Room #423",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 424,
     "name": "Room #424",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 425,
     "name": "Room #425",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 426,
     "name": "Room #426",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 427,
     "name": "Room #427",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 428,
     "name": "Room #428",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 429,
     "name": "Room #429",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 430,
     "name": "Room #430",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 431,
     "name": "Room #431",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 432,
     "name": "Room #432",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 433,
     "name": "Room #433",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 434,
     "name": "Room #434",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 435,
     "name": "Room #435",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 436,
     "name": "Room #436",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 437,
     "name": "Room #437",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 438,
     "name": "Room #438",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 439,
     "name": "Room #439",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 440,
     "name": "Room #440",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 441,
     "name": "Room #441",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 442,
     "name": "Room #442",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 443,
     "name": "Room #443",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 444,
     "name": "Room #444",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 445,
     "name": "Room #445",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 446,
     "name": "Room #446",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 447,
     "name": "Room #447",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 448,
     "name": "Room #448",
-    "_students_count_in_the_room": 18
+    "students_count": 18
   },
   {
     "id": 449,
     "name": "Room #449",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 450,
     "name": "Room #450",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 451,
     "name": "Room #451",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 452,
     "name": "Room #452",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 453,
     "name": "Room #453",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 454,
     "name": "Room #454",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 455,
     "name": "Room #455",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 456,
     "name": "Room #456",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 457,
     "name": "Room #457",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 458,
     "name": "Room #458",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 459,
     "name": "Room #459",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 460,
     "name": "Room #460",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 461,
     "name": "Room #461",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 462,
     "name": "Room #462",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 463,
     "name": "Room #463",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 464,
     "name": "Room #464",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 465,
     "name": "Room #465",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 466,
     "name": "Room #466",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 467,
     "name": "Room #467",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 468,
     "name": "Room #468",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 469,
     "name": "Room #469",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 470,
     "name": "Room #470",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 471,
     "name": "Room #471",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 472,
     "name": "Room #472",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 473,
     "name": "Room #473",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 474,
     "name": "Room #474",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 475,
     "name": "Room #475",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 476,
     "name": "Room #476",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 477,
     "name": "Room #477",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 478,
     "name": "Room #478",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 479,
     "name": "Room #479",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 480,
     "name": "Room #480",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 481,
     "name": "Room #481",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 482,
     "name": "Room #482",
-    "_students_count_in_the_room": 0
+    "students_count": 0
   },
   {
     "id": 483,
     "name": "Room #483",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 484,
     "name": "Room #484",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 485,
     "name": "Room #485",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 486,
     "name": "Room #486",
-    "_students_count_in_the_room": 17
+    "students_count": 17
   },
   {
     "id": 487,
     "name": "Room #487",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 488,
     "name": "Room #488",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 489,
     "name": "Room #489",
-    "_students_count_in_the_room": 17
+    "students_count": 17
   },
   {
     "id": 490,
     "name": "Room #490",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 491,
     "name": "Room #491",
-    "_students_count_in_the_room": 17
+    "students_count": 17
   },
   {
     "id": 492,
     "name": "Room #492",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 493,
     "name": "Room #493",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 494,
     "name": "Room #494",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 495,
     "name": "Room #495",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 496,
     "name": "Room #496",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 497,
     "name": "Room #497",
-    "_students_count_in_the_room": 17
+    "students_count": 17
   },
   {
     "id": 498,
     "name": "Room #498",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 499,
     "name": "Room #499",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 500,
     "name": "Room #500",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 501,
     "name": "Room #501",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 502,
     "name": "Room #502",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 503,
     "name": "Room #503",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 504,
     "name": "Room #504",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 505,
     "name": "Room #505",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 506,
     "name": "Room #506",
-    "_students_count_in_the_room": 18
+    "students_count": 18
   },
   {
     "id": 507,
     "name": "Room #507",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 508,
     "name": "Room #508",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 509,
     "name": "Room #509",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 510,
     "name": "Room #510",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 511,
     "name": "Room #511",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 512,
     "name": "Room #512",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 513,
     "name": "Room #513",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 514,
     "name": "Room #514",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 515,
     "name": "Room #515",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 516,
     "name": "Room #516",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 517,
     "name": "Room #517",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 518,
     "name": "Room #518",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 519,
     "name": "Room #519",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 520,
     "name": "Room #520",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 521,
     "name": "Room #521",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 522,
     "name": "Room #522",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 523,
     "name": "Room #523",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 524,
     "name": "Room #524",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 525,
     "name": "Room #525",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 526,
     "name": "Room #526",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 527,
     "name": "Room #527",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 528,
     "name": "Room #528",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 529,
     "name": "Room #529",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 530,
     "name": "Room #530",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 531,
     "name": "Room #531",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 532,
     "name": "Room #532",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 533,
     "name": "Room #533",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 534,
     "name": "Room #534",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 535,
     "name": "Room #535",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 536,
     "name": "Room #536",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 537,
     "name": "Room #537",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 538,
     "name": "Room #538",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 539,
     "name": "Room #539",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 540,
     "name": "Room #540",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 541,
     "name": "Room #541",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 542,
     "name": "Room #542",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 543,
     "name": "Room #543",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 544,
     "name": "Room #544",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 545,
     "name": "Room #545",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 546,
     "name": "Room #546",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 547,
     "name": "Room #547",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 548,
     "name": "Room #548",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 549,
     "name": "Room #549",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 550,
     "name": "Room #550",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 551,
     "name": "Room #551",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 552,
     "name": "Room #552",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 553,
     "name": "Room #553",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 554,
     "name": "Room #554",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 555,
     "name": "Room #555",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 556,
     "name": "Room #556",
-    "_students_count_in_the_room": 17
+    "students_count": 17
   },
   {
     "id": 557,
     "name": "Room #557",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 558,
     "name": "Room #558",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 559,
     "name": "Room #559",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 560,
     "name": "Room #560",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 561,
     "name": "Room #561",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 562,
     "name": "Room #562",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 563,
     "name": "Room #563",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 564,
     "name": "Room #564",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 565,
     "name": "Room #565",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 566,
     "name": "Room #566",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 567,
     "name": "Room #567",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 568,
     "name": "Room #568",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 569,
     "name": "Room #569",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 570,
     "name": "Room #570",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 571,
     "name": "Room #571",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 572,
     "name": "Room #572",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 573,
     "name": "Room #573",
-    "_students_count_in_the_room": 17
+    "students_count": 17
   },
   {
     "id": 574,
     "name": "Room #574",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 575,
     "name": "Room #575",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 576,
     "name": "Room #576",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 577,
     "name": "Room #577",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 578,
     "name": "Room #578",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 579,
     "name": "Room #579",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 580,
     "name": "Room #580",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 581,
     "name": "Room #581",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 582,
     "name": "Room #582",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 583,
     "name": "Room #583",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 584,
     "name": "Room #584",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 585,
     "name": "Room #585",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 586,
     "name": "Room #586",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 587,
     "name": "Room #587",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 588,
     "name": "Room #588",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 589,
     "name": "Room #589",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 590,
     "name": "Room #590",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 591,
     "name": "Room #591",
-    "_students_count_in_the_room": 18
+    "students_count": 18
   },
   {
     "id": 592,
     "name": "Room #592",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 593,
     "name": "Room #593",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 594,
     "name": "Room #594",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 595,
     "name": "Room #595",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 596,
     "name": "Room #596",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 597,
     "name": "Room #597",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 598,
     "name": "Room #598",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 599,
     "name": "Room #599",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 600,
     "name": "Room #600",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 601,
     "name": "Room #601",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 602,
     "name": "Room #602",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 603,
     "name": "Room #603",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 604,
     "name": "Room #604",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 605,
     "name": "Room #605",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 606,
     "name": "Room #606",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 607,
     "name": "Room #607",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 608,
     "name": "Room #608",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 609,
     "name": "Room #609",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 610,
     "name": "Room #610",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 611,
     "name": "Room #611",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 612,
     "name": "Room #612",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 613,
     "name": "Room #613",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 614,
     "name": "Room #614",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 615,
     "name": "Room #615",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 616,
     "name": "Room #616",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 617,
     "name": "Room #617",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 618,
     "name": "Room #618",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 619,
     "name": "Room #619",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 620,
     "name": "Room #620",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 621,
     "name": "Room #621",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 622,
     "name": "Room #622",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 623,
     "name": "Room #623",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 624,
     "name": "Room #624",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 625,
     "name": "Room #625",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 626,
     "name": "Room #626",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 627,
     "name": "Room #627",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 628,
     "name": "Room #628",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 629,
     "name": "Room #629",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 630,
     "name": "Room #630",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 631,
     "name": "Room #631",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 632,
     "name": "Room #632",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 633,
     "name": "Room #633",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 634,
     "name": "Room #634",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 635,
     "name": "Room #635",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 636,
     "name": "Room #636",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 637,
     "name": "Room #637",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 638,
     "name": "Room #638",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 639,
     "name": "Room #639",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 640,
     "name": "Room #640",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 641,
     "name": "Room #641",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 642,
     "name": "Room #642",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 643,
     "name": "Room #643",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 644,
     "name": "Room #644",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 645,
     "name": "Room #645",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 646,
     "name": "Room #646",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 647,
     "name": "Room #647",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 648,
     "name": "Room #648",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 649,
     "name": "Room #649",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 650,
     "name": "Room #650",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 651,
     "name": "Room #651",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 652,
     "name": "Room #652",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 653,
     "name": "Room #653",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 654,
     "name": "Room #654",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 655,
     "name": "Room #655",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 656,
     "name": "Room #656",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 657,
     "name": "Room #657",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 658,
     "name": "Room #658",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 659,
     "name": "Room #659",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 660,
     "name": "Room #660",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 661,
     "name": "Room #661",
-    "_students_count_in_the_room": 3
+    "students_count": 3
   },
   {
     "id": 662,
     "name": "Room #662",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 663,
     "name": "Room #663",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 664,
     "name": "Room #664",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 665,
     "name": "Room #665",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 666,
     "name": "Room #666",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 667,
     "name": "Room #667",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 668,
     "name": "Room #668",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 669,
     "name": "Room #669",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 670,
     "name": "Room #670",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 671,
     "name": "Room #671",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 672,
     "name": "Room #672",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 673,
     "name": "Room #673",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 674,
     "name": "Room #674",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 675,
     "name": "Room #675",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 676,
     "name": "Room #676",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 677,
     "name": "Room #677",
-    "_students_count_in_the_room": 3
+    "students_count": 3
   },
   {
     "id": 678,
     "name": "Room #678",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 679,
     "name": "Room #679",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 680,
     "name": "Room #680",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 681,
     "name": "Room #681",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 682,
     "name": "Room #682",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 683,
     "name": "Room #683",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 684,
     "name": "Room #684",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 685,
     "name": "Room #685",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 686,
     "name": "Room #686",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 687,
     "name": "Room #687",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 688,
     "name": "Room #688",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 689,
     "name": "Room #689",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 690,
     "name": "Room #690",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 691,
     "name": "Room #691",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 692,
     "name": "Room #692",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 693,
     "name": "Room #693",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 694,
     "name": "Room #694",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 695,
     "name": "Room #695",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 696,
     "name": "Room #696",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 697,
     "name": "Room #697",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 698,
     "name": "Room #698",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 699,
     "name": "Room #699",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 700,
     "name": "Room #700",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 701,
     "name": "Room #701",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 702,
     "name": "Room #702",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 703,
     "name": "Room #703",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 704,
     "name": "Room #704",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 705,
     "name": "Room #705",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 706,
     "name": "Room #706",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 707,
     "name": "Room #707",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 708,
     "name": "Room #708",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 709,
     "name": "Room #709",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 710,
     "name": "Room #710",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 711,
     "name": "Room #711",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 712,
     "name": "Room #712",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 713,
     "name": "Room #713",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 714,
     "name": "Room #714",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 715,
     "name": "Room #715",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 716,
     "name": "Room #716",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 717,
     "name": "Room #717",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 718,
     "name": "Room #718",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 719,
     "name": "Room #719",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 720,
     "name": "Room #720",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 721,
     "name": "Room #721",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 722,
     "name": "Room #722",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 723,
     "name": "Room #723",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 724,
     "name": "Room #724",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 725,
     "name": "Room #725",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 726,
     "name": "Room #726",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 727,
     "name": "Room #727",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 728,
     "name": "Room #728",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 729,
     "name": "Room #729",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 730,
     "name": "Room #730",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 731,
     "name": "Room #731",
-    "_students_count_in_the_room": 19
+    "students_count": 19
   },
   {
     "id": 732,
     "name": "Room #732",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 733,
     "name": "Room #733",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 734,
     "name": "Room #734",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 735,
     "name": "Room #735",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 736,
     "name": "Room #736",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 737,
     "name": "Room #737",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 738,
     "name": "Room #738",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 739,
     "name": "Room #739",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 740,
     "name": "Room #740",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 741,
     "name": "Room #741",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 742,
     "name": "Room #742",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 743,
     "name": "Room #743",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 744,
     "name": "Room #744",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 745,
     "name": "Room #745",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 746,
     "name": "Room #746",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 747,
     "name": "Room #747",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 748,
     "name": "Room #748",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 749,
     "name": "Room #749",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 750,
     "name": "Room #750",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 751,
     "name": "Room #751",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 752,
     "name": "Room #752",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 753,
     "name": "Room #753",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 754,
     "name": "Room #754",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 755,
     "name": "Room #755",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 756,
     "name": "Room #756",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 757,
     "name": "Room #757",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 758,
     "name": "Room #758",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 759,
     "name": "Room #759",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 760,
     "name": "Room #760",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 761,
     "name": "Room #761",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 762,
     "name": "Room #762",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 763,
     "name": "Room #763",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 764,
     "name": "Room #764",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 765,
     "name": "Room #765",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 766,
     "name": "Room #766",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 767,
     "name": "Room #767",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 768,
     "name": "Room #768",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 769,
     "name": "Room #769",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 770,
     "name": "Room #770",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 771,
     "name": "Room #771",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 772,
     "name": "Room #772",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 773,
     "name": "Room #773",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 774,
     "name": "Room #774",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 775,
     "name": "Room #775",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 776,
     "name": "Room #776",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 777,
     "name": "Room #777",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 778,
     "name": "Room #778",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 779,
     "name": "Room #779",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 780,
     "name": "Room #780",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 781,
     "name": "Room #781",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 782,
     "name": "Room #782",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 783,
     "name": "Room #783",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 784,
     "name": "Room #784",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 785,
     "name": "Room #785",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 786,
     "name": "Room #786",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 787,
     "name": "Room #787",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 788,
     "name": "Room #788",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 789,
     "name": "Room #789",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 790,
     "name": "Room #790",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 791,
     "name": "Room #791",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 792,
     "name": "Room #792",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 793,
     "name": "Room #793",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 794,
     "name": "Room #794",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 795,
     "name": "Room #795",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 796,
     "name": "Room #796",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 797,
     "name": "Room #797",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 798,
     "name": "Room #798",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 799,
     "name": "Room #799",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 800,
     "name": "Room #800",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 801,
     "name": "Room #801",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 802,
     "name": "Room #802",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 803,
     "name": "Room #803",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 804,
     "name": "Room #804",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 805,
     "name": "Room #805",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 806,
     "name": "Room #806",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 807,
     "name": "Room #807",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 808,
     "name": "Room #808",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 809,
     "name": "Room #809",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 810,
     "name": "Room #810",
-    "_students_count_in_the_room": 2
+    "students_count": 2
   },
   {
     "id": 811,
     "name": "Room #811",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 812,
     "name": "Room #812",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 813,
     "name": "Room #813",
-    "_students_count_in_the_room": 20
+    "students_count": 20
   },
   {
     "id": 814,
     "name": "Room #814",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 815,
     "name": "Room #815",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 816,
     "name": "Room #816",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 817,
     "name": "Room #817",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 818,
     "name": "Room #818",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 819,
     "name": "Room #819",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 820,
     "name": "Room #820",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 821,
     "name": "Room #821",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 822,
     "name": "Room #822",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 823,
     "name": "Room #823",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 824,
     "name": "Room #824",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 825,
     "name": "Room #825",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 826,
     "name": "Room #826",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 827,
     "name": "Room #827",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 828,
     "name": "Room #828",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 829,
     "name": "Room #829",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 830,
     "name": "Room #830",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 831,
     "name": "Room #831",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 832,
     "name": "Room #832",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 833,
     "name": "Room #833",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 834,
     "name": "Room #834",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 835,
     "name": "Room #835",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 836,
     "name": "Room #836",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 837,
     "name": "Room #837",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 838,
     "name": "Room #838",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 839,
     "name": "Room #839",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 840,
     "name": "Room #840",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 841,
     "name": "Room #841",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 842,
     "name": "Room #842",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 843,
     "name": "Room #843",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 844,
     "name": "Room #844",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 845,
     "name": "Room #845",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 846,
     "name": "Room #846",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 847,
     "name": "Room #847",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 848,
     "name": "Room #848",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 849,
     "name": "Room #849",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 850,
     "name": "Room #850",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 851,
     "name": "Room #851",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 852,
     "name": "Room #852",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 853,
     "name": "Room #853",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 854,
     "name": "Room #854",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 855,
     "name": "Room #855",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 856,
     "name": "Room #856",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 857,
     "name": "Room #857",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 858,
     "name": "Room #858",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 859,
     "name": "Room #859",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 860,
     "name": "Room #860",
-    "_students_count_in_the_room": 19
+    "students_count": 19
   },
   {
     "id": 861,
     "name": "Room #861",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 862,
     "name": "Room #862",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 863,
     "name": "Room #863",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 864,
     "name": "Room #864",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 865,
     "name": "Room #865",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 866,
     "name": "Room #866",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 867,
     "name": "Room #867",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 868,
     "name": "Room #868",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 869,
     "name": "Room #869",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 870,
     "name": "Room #870",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 871,
     "name": "Room #871",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 872,
     "name": "Room #872",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 873,
     "name": "Room #873",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 874,
     "name": "Room #874",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 875,
     "name": "Room #875",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 876,
     "name": "Room #876",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 877,
     "name": "Room #877",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 878,
     "name": "Room #878",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 879,
     "name": "Room #879",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 880,
     "name": "Room #880",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 881,
     "name": "Room #881",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 882,
     "name": "Room #882",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 883,
     "name": "Room #883",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 884,
     "name": "Room #884",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 885,
     "name": "Room #885",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 886,
     "name": "Room #886",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 887,
     "name": "Room #887",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 888,
     "name": "Room #888",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 889,
     "name": "Room #889",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 890,
     "name": "Room #890",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 891,
     "name": "Room #891",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 892,
     "name": "Room #892",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 893,
     "name": "Room #893",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 894,
     "name": "Room #894",
-    "_students_count_in_the_room": 17
+    "students_count": 17
   },
   {
     "id": 895,
     "name": "Room #895",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 896,
     "name": "Room #896",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 897,
     "name": "Room #897",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 898,
     "name": "Room #898",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 899,
     "name": "Room #899",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 900,
     "name": "Room #900",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 901,
     "name": "Room #901",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 902,
     "name": "Room #902",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 903,
     "name": "Room #903",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 904,
     "name": "Room #904",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 905,
     "name": "Room #905",
-    "_students_count_in_the_room": 19
+    "students_count": 19
   },
   {
     "id": 906,
     "name": "Room #906",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 907,
     "name": "Room #907",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 908,
     "name": "Room #908",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 909,
     "name": "Room #909",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 910,
     "name": "Room #910",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 911,
     "name": "Room #911",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 912,
     "name": "Room #912",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 913,
     "name": "Room #913",
-    "_students_count_in_the_room": 3
+    "students_count": 3
   },
   {
     "id": 914,
     "name": "Room #914",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 915,
     "name": "Room #915",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 916,
     "name": "Room #916",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 917,
     "name": "Room #917",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 918,
     "name": "Room #918",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 919,
     "name": "Room #919",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 920,
     "name": "Room #920",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 921,
     "name": "Room #921",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 922,
     "name": "Room #922",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 923,
     "name": "Room #923",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 924,
     "name": "Room #924",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 925,
     "name": "Room #925",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 926,
     "name": "Room #926",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 927,
     "name": "Room #927",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 928,
     "name": "Room #928",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 929,
     "name": "Room #929",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 930,
     "name": "Room #930",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 931,
     "name": "Room #931",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 932,
     "name": "Room #932",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 933,
     "name": "Room #933",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 934,
     "name": "Room #934",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 935,
     "name": "Room #935",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 936,
     "name": "Room #936",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 937,
     "name": "Room #937",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 938,
     "name": "Room #938",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 939,
     "name": "Room #939",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 940,
     "name": "Room #940",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 941,
     "name": "Room #941",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 942,
     "name": "Room #942",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 943,
     "name": "Room #943",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 944,
     "name": "Room #944",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 945,
     "name": "Room #945",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 946,
     "name": "Room #946",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 947,
     "name": "Room #947",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 948,
     "name": "Room #948",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 949,
     "name": "Room #949",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 950,
     "name": "Room #950",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 951,
     "name": "Room #951",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 952,
     "name": "Room #952",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 953,
     "name": "Room #953",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 954,
     "name": "Room #954",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 955,
     "name": "Room #955",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 956,
     "name": "Room #956",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 957,
     "name": "Room #957",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 958,
     "name": "Room #958",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 959,
     "name": "Room #959",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 960,
     "name": "Room #960",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 961,
     "name": "Room #961",
-    "_students_count_in_the_room": 17
+    "students_count": 17
   },
   {
     "id": 962,
     "name": "Room #962",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 963,
     "name": "Room #963",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 964,
     "name": "Room #964",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 965,
     "name": "Room #965",
-    "_students_count_in_the_room": 15
+    "students_count": 15
   },
   {
     "id": 966,
     "name": "Room #966",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 967,
     "name": "Room #967",
-    "_students_count_in_the_room": 11
+    "students_count": 11
   },
   {
     "id": 968,
     "name": "Room #968",
-    "_students_count_in_the_room": 17
+    "students_count": 17
   },
   {
     "id": 969,
     "name": "Room #969",
-    "_students_count_in_the_room": 16
+    "students_count": 16
   },
   {
     "id": 970,
     "name": "Room #970",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 971,
     "name": "Room #971",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 972,
     "name": "Room #972",
-    "_students_count_in_the_room": 4
+    "students_count": 4
   },
   {
     "id": 973,
     "name": "Room #973",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 974,
     "name": "Room #974",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 975,
     "name": "Room #975",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 976,
     "name": "Room #976",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 977,
     "name": "Room #977",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 978,
     "name": "Room #978",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 979,
     "name": "Room #979",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 980,
     "name": "Room #980",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 981,
     "name": "Room #981",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   },
   {
     "id": 982,
     "name": "Room #982",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 983,
     "name": "Room #983",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 984,
     "name": "Room #984",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 985,
     "name": "Room #985",
-    "_students_count_in_the_room": 3
+    "students_count": 3
   },
   {
     "id": 986,
     "name": "Room #986",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 987,
     "name": "Room #987",
-    "_students_count_in_the_room": 7
+    "students_count": 7
   },
   {
     "id": 988,
     "name": "Room #988",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 989,
     "name": "Room #989",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 990,
     "name": "Room #990",
-    "_students_count_in_the_room": 5
+    "students_count": 5
   },
   {
     "id": 991,
     "name": "Room #991",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 992,
     "name": "Room #992",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 993,
     "name": "Room #993",
-    "_students_count_in_the_room": 10
+    "students_count": 10
   },
   {
     "id": 994,
     "name": "Room #994",
-    "_students_count_in_the_room": 6
+    "students_count": 6
   },
   {
     "id": 995,
     "name": "Room #995",
-    "_students_count_in_the_room": 13
+    "students_count": 13
   },
   {
     "id": 996,
     "name": "Room #996",
-    "_students_count_in_the_room": 8
+    "students_count": 8
   },
   {
     "id": 997,
     "name": "Room #997",
-    "_students_count_in_the_room": 9
+    "students_count": 9
   },
   {
     "id": 998,
     "name": "Room #998",
-    "_students_count_in_the_room": 14
+    "students_count": 14
   },
   {
     "id": 999,
     "name": "Room #999",
-    "_students_count_in_the_room": 12
+    "students_count": 12
   }
 ]

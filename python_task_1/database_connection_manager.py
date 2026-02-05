@@ -1,32 +1,70 @@
-# Импорт PostgreSQL-адаптера для Python
 import psycopg2
+from psycopg2 import pool
 from contextlib import contextmanager
 from dotenv import load_dotenv
 import os
+import logging
 
 load_dotenv()
 
-# Словарь с параметрами для подключения к БД, берутся ранее загруженные переменные из .env
-database_cfg = {
-    "dbname": os.getenv("DATABASE_NAME"),
-    "user": os.getenv("DATABASE_USER"),
-    "password": os.getenv("DATABASE_PASSWORD"),
-    "host": os.getenv("DATABASE_HOST"),
-    "port": os.getenv("DATABASE_PORT"),
-}
+logger = logging.getLogger(__name__)
 
-# Контекстный менеджер, содержащий устанавливающую соединение и вносящую изменения в БД функцию establish_connection
+class DatabaseConfig:
+    # DB connection configuration
+    DB_NAME = os.getenv("DATABASE_NAME")
+    USER = os.getenv("DATABASE_USER")
+    PASSWORD = os.getenv("DATABASE_PASSWORD")
+    HOST = os.getenv("DATABASE_HOST")
+    PORT = os.getenv("DATABASE_PORT")
+    MIN_CONN = int(os.getenv("DB_MIN_CONN", 1))
+    MAX_CONN = int(os.getenv("DB_MAX_CONN", 10))
+
+class PostgresConnectionPool:
+    _pool = None
+
+    @classmethod
+    def get_pool(cls):
+        # Thread-safe lazy initialization of the connection pool."""
+        if cls._pool is None:
+            try:
+                cls._pool = pool.ThreadedConnectionPool(
+                    minconn=DatabaseConfig.MIN_CONN,
+                    maxconn=DatabaseConfig.MAX_CONN,
+                    dbname=DatabaseConfig.DB_NAME,
+                    user=DatabaseConfig.USER,
+                    password=DatabaseConfig.PASSWORD,
+                    host=DatabaseConfig.HOST,
+                    port=DatabaseConfig.PORT
+                )
+                logger.info("Connection pool created.")
+            except Exception as e:
+                logger.error(f"Error creating connection pool: {e}")
+                raise
+        return cls._pool
+
+    @classmethod
+    def close_pool(cls):
+        if cls._pool:
+            cls._pool.closeall()
+            cls._pool = None
+            logger.info("Connection pool closed.")
+
+# Compatibility wrapper for legacy code
 @contextmanager
 def establish_connection():
-    conn = psycopg2.connect(**database_cfg)
+    # Context manager for DB transactions
+    connection_pool = PostgresConnectionPool.get_pool()
+    conn = connection_pool.getconn()
     try:
         yield conn
-        print("Database connection established.")
         conn.commit()
-        print("Record changes are committed!")
     except Exception as exc:
         conn.rollback()
-        print("Error:", exc)
+        logger.error(f"Database transaction error: {exc}")
         raise
     finally:
-        conn.close()
+        connection_pool.putconn(conn)
+
+def close_db_pool():
+    # Closes the global connection pool
+    PostgresConnectionPool.close_pool()

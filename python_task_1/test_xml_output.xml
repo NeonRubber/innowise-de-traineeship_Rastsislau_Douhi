@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<results>
+  <item>
+    <id>1</id>
+    <name>Peggy</name>
+    <birthday>2011-08-22T00:00:00</birthday>
+    <sex>F</sex>
+    <room>101</room>
+  </item>
+  <item>
+    <id>2</id>
+    <name>John</name>
+    <birthday>2010-05-15T00:00:00</birthday>
+    <sex>M</sex>
+    <room>102</room>
+  </item>
+</results>

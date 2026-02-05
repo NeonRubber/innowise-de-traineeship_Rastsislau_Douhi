@@ -1,45 +1,83 @@
 import json
 import xml.etree.ElementTree as Xmletree
 from pathlib import Path
+from datetime import date, datetime
+from decimal import Decimal
+import logging
 
-# Создание класса-экспортёра данных запроса в JSON/XML
+logger = logging.getLogger(__name__)
+
 class DataExporter:
+    # Exports query results to JSON or XML
+    
     def __init__(self, data):
+        # Expects list of dicts
         self.data = data
 
-    # Метод-экспортёр в JSON-файл
+    def _json_serializer(self, obj):
+        # Serializes dates and decimals for JSON
+        if isinstance(obj, (datetime, date)):
+            return obj.isoformat()
+        if isinstance(obj, Decimal):
+            return float(obj)
+        # Fallback for other types
+        return str(obj)
+
     def export_into_json(self, filepath: Path):
-        def convert(object):
-            if isinstance(object, (int, float, str, type(None))):
-                return object
-            elif isinstance(object, dict):
-                return {key: convert(value) for key, value in object.items()}
-            elif isinstance(object, list):
-                return [convert(value) for value in object]
-            else:
-                return float(object)
+        """Exports data to a JSON file."""
+        try:
+            with open(filepath, 'w', encoding='utf-8') as file:
+                json.dump(
+                    self.data, 
+                    file, 
+                    default=self._json_serializer, 
+                    ensure_ascii=False, 
+                    indent=2
+                )
+            logger.info(f"JSON exported to {filepath}")
+        except Exception as e:
+            logger.error(f"Failed to export JSON: {e}")
+            raise
 
-        with open(filepath, 'w', encoding='utf-8') as file:
-            json.dump(convert(self.data), file, ensure_ascii=False, indent=2)
-
-    # Метод-экспортёр в XML-файл
     def export_into_xml(self, filepath: Path):
-        root = Xmletree.Element("results")
-        for row in self.data:
-            item = Xmletree.SubElement(root, "item")
-            for key, value in row.items():
-                child = Xmletree.SubElement(item, key)
-                child.text = str(value)
+        # Exports data to an XML file.
+        try:
+            root = Xmletree.Element("results")
+            
+            for row in self.data:
+                item = Xmletree.SubElement(root, "item")
+                for key, value in row.items():
+                    child = Xmletree.SubElement(item, key)
+                    # Handle NULL values
+                    if value is None:
+                        child.text = "" 
+                    else:
+                        child.text = str(value)
+            
             xml_tree = Xmletree.ElementTree(root)
+            # Use built-in indentation if available
+            if hasattr(Xmletree, 'indent'):
+                Xmletree.indent(xml_tree, space="  ", level=0)
+            
             xml_tree.write(filepath, encoding="utf-8", xml_declaration=True)
+            logger.info(f"XML exported to {filepath}")
+        except Exception as e:
+            logger.error(f"Failed to export XML: {e}")
+            raise
 
-    # Метод, выбирающий формат экспортируемого файла исходя из конфигурации .env
     def export(self, format: str, filepath: str):
+        # Selects format and exports data
         file_path = Path(filepath)
-        file_path.parent.mkdir(parents=True, exist_ok=True)
-        if format == 'json':
+        # Create directories if needed
+        try:
+            file_path.parent.mkdir(parents=True, exist_ok=True)
+        except OSError as e:
+            logger.error(f"Error creating directory for {file_path}: {e}")
+            raise
+
+        if format.lower() == 'json':
             self.export_into_json(file_path)
-        elif format == 'xml':
+        elif format.lower() == 'xml':
             self.export_into_xml(file_path)
         else:
-            raise ValueError("This file format is unsupported. Make sure you are using JSON or XML.")
+            raise ValueError(f"Unsupported format: {format}")

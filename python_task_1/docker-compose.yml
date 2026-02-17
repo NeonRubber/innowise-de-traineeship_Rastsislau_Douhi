@@ -1,0 +1,42 @@
+services:
+  db:
+    image: postgres:15
+    container_name: python_task_db
+    environment:
+      POSTGRES_DB: ${DATABASE_NAME:-postgres}
+      POSTGRES_USER: ${DATABASE_USER:-postgres}
+      POSTGRES_PASSWORD: ${DATABASE_PASSWORD:-postgres_trainee}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-db:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U ${DATABASE_USER:-postgres} -d ${DATABASE_NAME:-postgres}" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  app:
+    build: .
+    container_name: python_task_app
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./output_data:/app/output_data
+      - ./input_data:/app/input_data
+    environment:
+      DATABASE_HOST: db
+      DATABASE_PORT: 5432
+      DATABASE_NAME: ${DATABASE_NAME:-postgres}
+      DATABASE_USER: ${DATABASE_USER:-postgres}
+      DATABASE_PASSWORD: ${DATABASE_PASSWORD:-postgres_trainee}
+      STUDENTS_FILE_PATH: /app/input_data/students_info.json
+      ROOMS_FILE_PATH: /app/input_data/rooms_info.json
+      EXPORT_DATA_FORMAT: ${EXPORT_DATA_FORMAT:-json}
+      EXPORT_PATH: /app/output_data/
+    command: [ "--students", "/app/input_data/students_info.json", "--rooms", "/app/input_data/rooms_info.json", "--format", "${EXPORT_DATA_FORMAT:-json}" ]
+
+volumes:
+  postgres_data:

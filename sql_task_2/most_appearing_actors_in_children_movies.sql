@@ -16,7 +16,7 @@ FROM(
 	LEFT JOIN film ON film.film_id = film_actor.film_id
 	LEFT JOIN film_category ON film_category.film_id = film.film_id
 	LEFT JOIN category ON category.category_id = film_category.category_id
-	WHERE category.category_id = 3
+	WHERE category.name = 'Children'
 	GROUP BY actor.actor_id, actor.first_name, actor.last_name
 ) subquery
 WHERE appearance_number_rank <= 3
